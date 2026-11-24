@@ -22,8 +22,8 @@ I'm a Computer Science undergraduate at the University of Engineering and Techno
 
 ### 📫 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/muhammad-mustafa-awan)
-[![Email](https://www.instagram.com/awan_mustafaa/)## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/muhammad-mustafa-awan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mustafaawan1232@outlook.com)
 
 <!--
 **MustafaAwan-45/MustafaAwan-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
